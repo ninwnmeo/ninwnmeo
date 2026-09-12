@@ -19,7 +19,3 @@
 <img src="https://i.pinimg.com/736x/71/09/27/710927a7e62c3083c5be1966015ea0f2.jpg" align="center" style="width: 20%" />
 </div>  
   
-<div align="center">
-<img src="https://i.pinimg.com/1200x/28/fa/fa/28fafa8de27a58455ed7a318d89b5269.jpg" align="center" style="width: 80%" />
-</div>  
-  

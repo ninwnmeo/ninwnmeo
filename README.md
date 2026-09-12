@@ -10,13 +10,10 @@
          n
             h
 
-/ᐠ. ｡.ᐟ\
-ᵐᵉᵒʷˎˊ˗
+/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 
 ఌ︎My biography;'
-.
- .
-   .
+
    <div align="center">
 <img src="https://i.pinimg.com/736x/72/3b/08/723b08bf4a96da6c913ca2fa6cb294dc.jpg" align="center" style="width: 100%" />
 </div>  

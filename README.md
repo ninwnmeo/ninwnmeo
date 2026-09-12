@@ -2,13 +2,13 @@
 <img src="https://i.pinimg.com/736x/f0/0e/a7/f00ea7e19d6e6f1aafba17def15ff90c.jpg" align="center" style="width: 100%" />
 </div>  
   
-        t
+          t
             r
-         a
-         m
+             a
+           m
         a
-        n
-        h
+         n
+            h
 
 /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 @https://guns.lol/trmm

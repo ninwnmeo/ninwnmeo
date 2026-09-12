@@ -3,7 +3,8 @@
 </div>  
   
 <div align=''center''>
-<img scr=![Static Badge](img alt="Static Badge" src="https://img.shields.io/badge/%F0%93%8D%BC_love-you_so_much?logoColor=ffc3dd&logoSize=small">
+<img scr=![Static Badge](img al<img alt="Static Badge" src="https://img.shields.io/badge/%F0%93%8D%BC_love-you_so_much?logoColor=ffc3dd&logoSize=small&labelColor=ffffff&color=ffc3dd">
+">
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCBE2&width=435&lines=%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>

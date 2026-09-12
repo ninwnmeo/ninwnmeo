@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.pinimg.com/736x/8c/49/93/8c49935c3fc617ef171360a6c0a6cff7.jpg" align="center" style="width: 70%" />
-</div>  
+
   <div align="left">
 <img src="https://i.pinimg.com/736x/0d/d7/57/0dd7576f4b8f5c1b9cf58ea66d372450.jpg" align="center" style="width: 30%" />
 </div>  

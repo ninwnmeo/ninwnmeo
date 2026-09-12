@@ -11,7 +11,8 @@
             h
 
 /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
-<p align="center">
+<div align="center">
+<img scr=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffcbe2&width=435&lines=I+give+you+my+heart)](https://git.io/typing-svg)
    <div align="center">
 <img src="https://i.pinimg.com/736x/72/3b/08/723b08bf4a96da6c913ca2fa6cb294dc.jpg" align="center" style="width: 100%" />
 </div>  

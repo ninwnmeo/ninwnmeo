@@ -1,6 +1,6 @@
 <div align="center">
-<img scr=https://i.pinimg.com/736x/f1/6f/e1/f16fe1b01eaf3458633c1b2f5917d31a.jpg>
-</div>
+<img src="https://i.pinimg.com/736x/f1/6f/e1/f16fe1b01eaf3458633c1b2f5917d31a.jpg" align="center" style="width: 100%" />
+</div>  
 
           t
             r

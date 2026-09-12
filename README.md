@@ -2,7 +2,13 @@
 <div align="center">
 
 <img src="https://i.pinimg.com/736x/46/d1/e8/46d1e8e5413170310c5e27fe84c393d6.jpg" align="center" style="width: 100%" />
-</div>  
+</div>  t
+        r
+        a
+        m
+        a
+        n
+        h
 
 /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 @https://guns.lol/trmm

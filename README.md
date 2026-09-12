@@ -14,6 +14,6 @@
 </div>  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCBE2&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%A0%9C+%EC%9D%B4%EB%A6%84%EC%9D%80+Tram+Anh%EC%9D%B4%EC%A7%80%EB%A7%8C" alt="Typing SVG" /></a>
 <div align="center">
-<img src="https://i.pinimg.com/1200x/28/fa/fa/28fafa8de27a58455ed7a318d89b5269.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/1200x/28/fa/fa/28fafa8de27a58455ed7a318d89b5269.jpg" align="center" style="width: 50%" />
 </div>  
   

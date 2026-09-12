@@ -1,5 +1,9 @@
-➔ⁿⁱᶜᵉ ᵗᵒ ᵐᵉᵉᵗ ʸᵒᵘ~
-❤❤❤❤❤❤❤❤❤❤❤
+➔
+ⁿⁱᶜᵉ ᵗᵒ ᵐᵉᵉᵗ ʸᵒᵘ~
+<div align="center">
+<img src="https://i.pinimg.com/736x/ec/b9/8b/ecb98b68ef0faeb3c043a7dee841d3c6.jpg" align="center" style="width: 100%" />
+</div>  
+  
 <div align="center">
 <img src="https://i.pinimg.com/736x/fd/9e/54/fd9e540e455220f674ce2ab2c2aef4ae.jpg" align="center" style="width: 100%" />
 </div>  

@@ -1,23 +1,15 @@
 
-  <div align="left">
-<img src="https://i.pinimg.com/736x/0d/d7/57/0dd7576f4b8f5c1b9cf58ea66d372450.jpg" align="center" style="width: 30%" />
+<div align="center">
+<img src="https://i.pinimg.com/1200x/a5/fb/e7/a5fbe7727e8c257096f4dfe8bc1ddc65.jpg" align="center" style="width: 100%" />
 </div>  
-<div align=''center''>
-<img scr=![Static Badge](img al<img alt="Static Badge" src="https://img.shields.io/badge/%F0%93%8D%BC_love-you_so_much?logoColor=ffc3dd&logoSize=small&labelColor=ffffff&color=ffc3dd">
 <div align="right">
-<img src="https://i.pinimg.com/736x/15/98/be/1598beba52ee36d2c835b5945a21fb72.jpg" align="center" style="width: 47%" />
+<img src="https://i.pinimg.com/736x/15/73/3f/15733fa278dedb691750815e6abc1e54.jpg" align="center" style="width: 70%" />
 </div>  
 <div align="left">
-<img src="https://i.pinimg.com/736x/c2/bc/3d/c2bc3df8b658234e7b8aaaa7fb265ae8.jpg" align="center" style="width: 47%" />
+<img src="https://i.pinimg.com/736x/90/51/da/9051da5bd143a918b60d3c2a5c9a57d3.jpg" align="center" style="width: 50%" />
 </div>  
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCBE2&width=435&lines=%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCBE2&width=435&lines=I+give+you+my+heart;nice+to+meet+you" alt="Typing SVG" /></a>
-   <div align="center">
-<img src="https://i.pinimg.com/736x/72/3b/08/723b08bf4a96da6c913ca2fa6cb294dc.jpg" align="center" style="width: 57%" />
+<div align="center">
+<img src="https://i.pinimg.com/736x/ff/52/41/ff5241c063de2fe36c7aac517a532e4c.jpg" align="center" style="width: 40%" />
 </div>  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCBE2&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%A0%9C+%EC%9D%B4%EB%A6%84%EC%9D%80+Tram+Anh%EC%9D%B4%EC%A7%80%EB%A7%8C" alt="Typing SVG" /></a>
-<div align="right">
-<img src="https://i.pinimg.com/736x/71/09/27/710927a7e62c3083c5be1966015ea0f2.jpg" align="center" style="width: 20%" />
-</div>  
-  
+
+
